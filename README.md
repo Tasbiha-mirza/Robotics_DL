@@ -86,5 +86,5 @@ The perceptron performs **binary classification**: *Iris-setosa* vs. everything 
 
 ## 👩‍💻 Author
 
-**Tasbiha Mirza**
-[GitHub Profile](https://github.com/Tasbiha-mirza)
+**Tasbiha Zaman**
+[GitHub Profile](https://github.com/Tasbiha-Zaman)
