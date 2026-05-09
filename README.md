@@ -31,4 +31,4 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
-**Tasbiha Mirza** — [GitHub Profile](https://github.com/Tasbiha-mirza)
+**Tasbiha Zaman** — [GitHub Profile](https://github.com/Tasbiha-Zaman)
